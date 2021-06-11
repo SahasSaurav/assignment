@@ -1,0 +1,24 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hookform/error-message": "^2.0.0",
+    "axios": "^0.21.1",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-csv": "^2.0.3",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.8.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.2",
+    "tailwindcss": "^2.1.4"
+  }
+}
